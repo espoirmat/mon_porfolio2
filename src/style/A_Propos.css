@@ -1,0 +1,24 @@
+.A_Propos
+{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 4% auto;
+    border: 1px solid red;
+}
+
+.A_Propos h2
+{
+    text-align: center;
+    margin: 3%;
+}
+
+.A_Propos h4
+{
+    text-align: center;
+}
+.A_Propos .propos img
+{
+    width: 500px;
+    height: 400px;
+}
