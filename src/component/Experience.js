@@ -14,14 +14,14 @@ function Experience() {
         <div className='conteneur1'>
         <h2> <FaGraduationCap/> Scolaire</h2>
         <p>
-        <h2>Université</h2>
+        <h3>Université</h3>
         Graduée en Informatique de gestion à l'Institut
         supérieur d'informatique, programmation et analyse <br/>
         <i>2017- 2020</i>
         </p>
 
         <p>
-            <h2>Lycée</h2>
+            <h3>Lycée</h3>
             Diplômé d'état en commercial et informatique 2011-2017
             au lycée VuVu Kieto
         </p>
@@ -33,13 +33,13 @@ function Experience() {
         <div> 
             <h2> <MdWork/> Professionnel</h2>
             <p>
-                <h2>Web design</h2>
+                <h3>Web design</h3>
                 Création des designs graphique web pour le site rfs academia
                 Et en freelance
             </p>
 
             <p>
-                <h2>Community manager</h2>
+                <h3>Community manager</h3>
                 Gérance des pages réseaux sociaux de RFS Consulting <br/>
                 gestions des pages réseaux sociaux de Kolletif Numérique
 
