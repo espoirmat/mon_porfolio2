@@ -1,4 +1,4 @@
-.Competence
+.Experience
 {
     display: flex;
     flex-direction: column;
@@ -6,27 +6,19 @@
     margin: 4% auto;
     border: 1px solid red;
 }
-.Competence h2
+.Experience h2
 {
     text-align: center;
     margin: 2%;
 }
 
-.Competence p
+.Experience p
 {
     text-align: center;
     margin-bottom: 2rem;
 }
 
-.Competence .image
+.Experience .conteneur
 {
     display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-}
-.Competence .image img
-{
-    width: 150px;
-    height: 150px;
-    margin: 2%;
 }

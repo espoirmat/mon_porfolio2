@@ -12,6 +12,9 @@ import postgre from '../assets/postgre.png'
 import sqlserver from '../assets/sqlserver.png'
 import ps from '../assets/ps.png'
 import js from '../assets/js.png'
+import php from '../assets/php.png'
+import word from '../assets/word.png'
+import '../style/Competence.css'
 
 
 function Competence() {
@@ -20,7 +23,7 @@ function Competence() {
         
         <h2>Compétences</h2>
         <p>Les technologies et outils utilisés</p>
-        <div className='titre'>
+        <div className='image'>
             <img src={css}/>
             <img src={html}/>
             <img src={sass}/>
@@ -34,6 +37,8 @@ function Competence() {
             <img src={sqlserver}/>
             <img src={ps}/>
             <img src={asana}/>
+            <img src={php}/>
+            <img src={word}/>
         </div>
     </div>
   )
