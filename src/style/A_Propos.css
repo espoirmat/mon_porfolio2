@@ -22,10 +22,32 @@
 .A_Propos .propos
 {
     display: flex;
+    width: 100%;
 }
+
 .A_Propos .propos img
 {
-    width: 500px;
+    width: 600px;
     height: 400px;
+    margin: 3% 2%;
     border-radius: 10px;
+}
+
+.A_Propos .propos .text
+{
+    width: 50%;
+    text-align: justify;
+}
+
+.A_Propos .propos .text .contenue
+{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15%;
+    text-align: center;
+}
+
+.A_Propos .propos .text .contenue h2
+{
+    margin-bottom: 10%;
 }

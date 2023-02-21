@@ -13,6 +13,20 @@ function A_Propos() {
             <img src={image}/>
             <div className='text'>
                 <p>Je suis une jeune développeuse œuvrant dans le domaine du frontend depuis plus d'un an maintenant. Mon attirance pour la beauté et mode alliée à mon expérience restent mes principaux atouts pour créer au quotidien des sites et applications web attrayants tout en tenant compte de l'expérience utilisateur.</p>
+                <div className='contenue'>
+                    <div>
+                        <h2>12+</h2>
+                        <p>Mois <br/> d'experience</p>
+                    </div>
+                    <div>
+                        <h2>12+</h2>
+                        <p>Mois <br/> d'experience</p>
+                    </div>
+                    <div>
+                        <h2>12+</h2>
+                        <p>Mois <br/>d'experience</p>
+                    </div>
+                </div>
                 <div className='button'><a href='#'>Me Contacter </a></div>
             </div>
         </div>
