@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/mon_porfolio2/static/css/main.bcd5c05b.css",
+    "main.js": "/mon_porfolio2/static/js/main.2e4c725e.js",
+    "static/js/787.7e34a91d.chunk.js": "/mon_porfolio2/static/js/787.7e34a91d.chunk.js",
+    "static/media/word.png": "/mon_porfolio2/static/media/word.266014a5ca4f6bfa5daf.png",
+    "static/media/image.jpg": "/mon_porfolio2/static/media/image.f627021876f91a37b048.jpg",
+    "static/media/canva.png": "/mon_porfolio2/static/media/canva.9001c48f564be8639788.png",
+    "static/media/react.png": "/mon_porfolio2/static/media/react.2f2532db663fd5ec5f95.png",
+    "static/media/mysql.png": "/mon_porfolio2/static/media/mysql.167c88550478e6f0f85c.png",
+    "static/media/postgre.png": "/mon_porfolio2/static/media/postgre.205c6e1cf88f5fb991e4.png",
+    "static/media/ps.png": "/mon_porfolio2/static/media/ps.17d3a9a4235587ca193a.png",
+    "static/media/figma.png": "/mon_porfolio2/static/media/figma.de9ddc6c2c43c542a17e.png",
+    "static/media/profil.jpeg": "/mon_porfolio2/static/media/profil.de6f8a1577c4840e9476.jpeg",
+    "static/media/asana.png": "/mon_porfolio2/static/media/asana.15ca465685f0af4b0887.png",
+    "static/media/css.png": "/mon_porfolio2/static/media/css.ea63097553654f07d95c.png",
+    "static/media/sqlserver.png": "/mon_porfolio2/static/media/sqlserver.7215ff306c11b69dce62.png",
+    "static/media/html.png": "/mon_porfolio2/static/media/html.f3aa7827cd5160f3fc1c.png",
+    "static/media/php.png": "/mon_porfolio2/static/media/php.80b11a46dcd2afd90b1d.png",
+    "static/media/espoir_cv.pdf": "/mon_porfolio2/static/media/espoir_cv.43c30d5d22453f0e82cb.pdf",
+    "static/media/sass.png": "/mon_porfolio2/static/media/sass.051888ab516950ed48cb.png",
+    "index.html": "/mon_porfolio2/index.html",
+    "main.bcd5c05b.css.map": "/mon_porfolio2/static/css/main.bcd5c05b.css.map",
+    "main.2e4c725e.js.map": "/mon_porfolio2/static/js/main.2e4c725e.js.map",
+    "787.7e34a91d.chunk.js.map": "/mon_porfolio2/static/js/787.7e34a91d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcd5c05b.css",
+    "static/js/main.2e4c725e.js"
+  ]
+}
