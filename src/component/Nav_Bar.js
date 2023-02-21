@@ -4,7 +4,7 @@ import '../style/Nav_Bar.css'
 function Nav_Bar() {
   return (
     <div className='nav_bar'>
-        <h4>Espoir MASEVO</h4>
+        <h3>Espoir </h3>
         <div className='links'>
             <a href='#'>Home</a>
             <a href='#'>A Propos</a>
