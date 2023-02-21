@@ -2,7 +2,8 @@
 {
     display: flex;
     width: 90%;
-    margin: 6% auto;
+    margin: 4% auto;
+    border: 1px solid red;
 }
 
 
@@ -24,6 +25,7 @@
 .About_me .About h1
 {
     margin-bottom: 2%;
+    margin-top: 7%;
     font-size: 2.5rem;
     text-align: left;
 }
@@ -38,15 +40,23 @@
     font-size: 1rem;
     margin-bottom: 10%;
 }
-.About_me .About.button
+.About_me .About .button
 {
-    width: 100px;
-    height: 100px;
+    width: 180px;
+    height: 30px;
+    padding: 2%;
     border-radius: 10px;
-    background: rgba(245, 245, 245, 0.425);
+    background: rgba(68, 65, 65, 0.425);
 }
 .About_me .About a
 {
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 1.5rem;
+    margin-top: -10px;
+}
+
+
+.About_me .About .icon
+{
+    transform: rotateX(45%);
 }
