@@ -1,0 +1,52 @@
+.About_me
+{
+    display: flex;
+    width: 90%;
+    margin: 6% auto;
+}
+
+
+
+.About_me img
+{
+    width: 500px;
+    height: 500px;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 50%;
+}
+
+.About_me .About
+{
+    margin: 3%;
+}
+.About_me .About h1
+{
+    margin-bottom: 2%;
+    font-size: 2.5rem;
+    text-align: left;
+}
+.About_me .About h2
+{
+    text-align: left;
+}
+
+.About_me .About p
+{
+    text-align: justify;
+    font-size: 1rem;
+    margin-bottom: 10%;
+}
+.About_me .About.button
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    background: rgba(245, 245, 245, 0.425);
+}
+.About_me .About a
+{
+    text-decoration: none;
+    font-size: 1rem;
+}
