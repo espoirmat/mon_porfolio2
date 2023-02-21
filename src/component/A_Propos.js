@@ -21,12 +21,12 @@ function A_Propos() {
                         <p>Mois <br/> d'experience</p>
                     </div>
                     <div>
-                        <h2>12+</h2>
-                        <p>Mois <br/> d'experience</p>
+                        <h2>2+</h2>
+                        <p>Languages <br/> Maitrisés</p>
                     </div>
                     <div>
-                        <h2>12+</h2>
-                        <p>Mois <br/>d'experience</p>
+                        <h2>3+</h2>
+                        <p>la <br/>d'experience</p>
                     </div>
                 </div>
                 <div className='button'><a href='#' download={espoir_cv}>Mon CV<i><AiOutlineDownload /></i> </a></div>
