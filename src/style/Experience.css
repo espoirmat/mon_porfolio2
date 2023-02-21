@@ -21,4 +21,12 @@
 .Experience .conteneur
 {
     display: flex;
+    justify-content: space-around;
+}
+
+.Experience .conteneur .line
+{
+    width: 2px;
+    height: 400px;
+    background: blue;
 }
