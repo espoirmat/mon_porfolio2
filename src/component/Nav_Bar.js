@@ -1,5 +1,6 @@
 import React from 'react'
 import '../style/Nav_Bar.css'
+import { BsSun } from 'react-icons/bs';
 
 function Nav_Bar() {
   return (
@@ -13,6 +14,7 @@ function Nav_Bar() {
             <a href='#'>Réaliqations</a>
             <a href='#'>Contact</a>
             <a href='#'>Home</a>
+            <a href='#'><BsSun /></a>
         </div>
     </div>
   )

@@ -1,6 +1,8 @@
 import React from 'react'
 import image from '../assets/image.jpg'
 import '../style/A_Propos.css'
+import espoir_cv from '../assets/espoir_cv.pdf'
+import { AiOutlineDownload } from 'react-icons/ai';
 function A_Propos() {
   return (
     <div className='A_Propos'>
@@ -27,7 +29,7 @@ function A_Propos() {
                         <p>Mois <br/>d'experience</p>
                     </div>
                 </div>
-                <div className='button'><a href='#'>Me Contacter </a></div>
+                <div className='button'><a href='' download={espoir_cv}>Mon CV<i><AiOutlineDownload /></i> </a></div>
             </div>
         </div>
     
