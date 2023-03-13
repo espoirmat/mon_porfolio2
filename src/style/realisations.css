@@ -11,8 +11,8 @@
     width: 80%;
     height: 500px;
     display: flex;
+    justify-content: space-evenly;
     flex-wrap: wrap;
-    border: solid 1px red;
     overflow-y: scroll;
     scroll-behavior: smooth;
 }
@@ -21,10 +21,9 @@
 
 .realisations .conteneur .real
 {
-    background: white;
+    background: rgba(248, 247, 247, 0.486);
     width: 35%;
     height: 400px;
-    border: solid 1px red;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -44,6 +43,8 @@
 .realisations .conteneur .real p
 {
     text-align: left;
+    margin-left: 4%;
+    color: rgba(0, 0, 0, 0.479);
 }
 
 .realisations .conteneur .real .links
@@ -53,11 +54,24 @@
     justify-content: space-evenly;
 }
 
-.realisations .conteneur .real .text
+.realisations .conteneur .real .links .text
 {
-    background: rgb(174, 174, 235);
+    background: rgb(200, 200, 241);
     width: 50px;
     height: 30px;
     text-align: center;
+}
+
+.realisations .conteneur .real a
+{
+    text-decoration: none;
+    width: 40%;
+    height: 40px;
+    background: rgb(58, 70, 238);
+    font-size: 1.3rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
     border-radius: 10px;
+    margin-left: 5%;
 }
