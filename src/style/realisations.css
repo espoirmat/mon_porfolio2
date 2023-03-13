@@ -9,8 +9,55 @@
 .realisations .conteneur
 {
     width: 80%;
-    height: 200px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
     border: solid 1px red;
     overflow-y: scroll;
     scroll-behavior: smooth;
+}
+
+
+
+.realisations .conteneur .real
+{
+    background: white;
+    width: 35%;
+    height: 400px;
+    border: solid 1px red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.realisations .conteneur .real img
+{
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.realisations .conteneur .real h2
+{
+    text-align: center;
+}
+
+.realisations .conteneur .real p
+{
+    text-align: left;
+}
+
+.realisations .conteneur .real .links
+{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.realisations .conteneur .real .text
+{
+    background: rgb(174, 174, 235);
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    border-radius: 10px;
 }
