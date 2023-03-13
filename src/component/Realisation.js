@@ -11,8 +11,8 @@ import capture1 from '../assets/Capture1.PNG'
 function Realisation() {
   return (
     <div className='realisations'>
-        <h2>Expériences</h2>
-        <p>Mon expérience professionnelle & scolaire</p>
+        <h2>réalisations</h2>
+        <p>Quelques projets réalisés</p>
         <div className='conteneur'>
             <div className='real'>
                 <img src={capture7}/>

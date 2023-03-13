@@ -6,9 +6,21 @@
     margin: auto;
 }
 
+.realisations h2
+{
+    text-align: center;
+    margin: 2%;
+}
+
+.realisations p
+{
+    text-align: center;
+    margin-bottom: 2rem;
+}
 .realisations .conteneur
 {
     width: 80%;
+    margin: auto;
     height: 500px;
     display: flex;
     justify-content: space-evenly;
