@@ -29,7 +29,7 @@ function A_Propos() {
                         <p>ans <br/>d'experience</p>
                     </div>
                 </div>
-                <div className='button'><a href='#' download={espoir_cv}>Mon CV<i><AiOutlineDownload /></i> </a></div>
+                <div className='button'><a href='#' download={espoir_cv}>Mon CV <AiOutlineDownload /> </a></div>
             </div>
         </div>
     
