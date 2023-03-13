@@ -1,8 +1,7 @@
 import React from 'react'
+import '../style/Contact.css'
 import { TfiEmail } from 'react-icons/tfi';
 import { MdLocationPin } from 'react-icons/md';
-import { FiInstagram } from 'react-icons/fi';
-import { RxTwitterLogo } from 'react-icons/rx';
 
 function Contact() {
   return (

@@ -1,0 +1,17 @@
+.footer
+{
+    display: flex;
+    width: 98%;
+    flex-direction: column;
+    padding: 1%;
+    background: rgba(255, 255, 255, 0.89);
+}
+
+
+.footer .links
+{
+    display: flex;
+    width: 20%;
+    margin-top: 2%;
+    justify-content: space-between;
+}
